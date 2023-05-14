@@ -4,16 +4,20 @@ Just listened to Naval's podcast for a little bit more. I don't know how much ho
 
 # Example Response
 
-1/7: 🎧 Deep dive into @Naval's podcast today. Some key takeaways? Radical honesty & living in the present. If you're always watching what you say, you're either stuck in the past or future, not fully in the now. #NavalRavikant #Mindfulness
+```
+[
+  "1/7: 🎧 Deep dive into @Naval's podcast today. Some key takeaways? Radical honesty & living in the present. If you're always watching what you say, you're either stuck in the past or future, not fully in the now. #NavalRavikant #Mindfulness",
 
-2/7: 🎯 Honesty shouldn't be compromised by your environment. Naval's commitment to such transparency means he avoids situations where he can't speak his truth. It's a principle I found truly compelling. #Honesty #PersonalGrowth
+  "2/7: 🎯 Honesty shouldn't be compromised by your environment. Naval's commitment to such transparency means he avoids situations where he can't speak his truth. It's a principle I found truly compelling. #Honesty #PersonalGrowth",
 
-3/7: 😡🚫 Naval also spoke about eliminating anger and especially jealousy from his life. This resonated with me - negativity only holds us back from reaching our full potential. #Positivity #SelfImprovement
+  "3/7: 😡🚫 Naval also spoke about eliminating anger and especially jealousy from his life. This resonated with me - negativity only holds us back from reaching our full potential. #Positivity #SelfImprovement",
 
-4/7: 🍒 The perspective on jealousy was particularly enlightening. You can't cherry-pick someone else's traits or successes without accepting their entire life - goals, lifestyle, partner and all. It's a holistic package. #Jealousy #LifeLessons
+  "4/7: 🍒 The perspective on jealousy was particularly enlightening. You can't cherry-pick someone else's traits or successes without accepting their entire life - goals, lifestyle, partner and all. It's a holistic package. #Jealousy #LifeLessons",
 
-5/7: 💡 This insight can revolutionize how we view jealousy. It's a futile emotion when we realize we can't selectively covet aspects of someone's life. It's all or nothing. #MindsetChange
+  "5/7: 💡 This insight can revolutionize how we view jealousy. It's a futile emotion when we realize we can't selectively covet aspects of someone's life. It's all or nothing. #MindsetChange",
 
-6/7: 📝 Naval also mentioned he doesn't take notes as he rarely revisits them. It's an interesting approach. Maybe instead of detailed notes, I'll keep rough outlines to jog my memory without overloading with details. #NoteTaking
+  "6/7: 📝 Naval also mentioned he doesn't take notes as he rarely revisits them. It's an interesting approach. Maybe instead of detailed notes, I'll keep rough outlines to jog my memory without overloading with details. #NoteTaking",
 
-7/7: 🔄 Wrapping up, Naval's podcast left me with a lot to ponder. From embracing radical honesty to reassessing how we view jealousy, these conversations are a goldmine of perspective. #NavalRavikant #PodcastReflections
+  "7/7: 🔄 Wrapping up, Naval's podcast left me with a lot to ponder. From embracing radical honesty to reassessing how we view jealousy, these conversations are a goldmine of perspective. #NavalRavikant #PodcastReflections"
+]
+```
